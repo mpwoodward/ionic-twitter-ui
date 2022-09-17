@@ -1,0 +1,7 @@
+{
+  "name": "devdactic-twitter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
